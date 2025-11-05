@@ -65,7 +65,7 @@ This suggests a **weak positive relationship** — meaning higher discounts are 
 
 **(Insert your first chart here)**
 
-![Sales Comparison](images/sales_comparison_1402_1403.png)
+![Sales Comparison](1403-1402)
 
 ---
 
