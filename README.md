@@ -65,7 +65,7 @@ This suggests a **weak positive relationship** — meaning higher discounts are 
 
 **(Insert your first chart here)**
 
-![Sales Comparison](1403-1402)
+![Sales Comparison](1403-1402.png)
 
 ---
 
@@ -75,7 +75,7 @@ This suggests a **weak positive relationship** — meaning higher discounts are 
 
 This visualization shows that **most user ratings cluster within the 70–80% discount range**, indicating customers respond strongly to major discounts.
 
-![Discount vs Sales](images/discount_vs_sales.png)
+![Discount vs Sales](rating-descount.png)
 
 ---
 
